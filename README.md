@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**kacpiwr/kacpiwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kacper Wróbel from Poland, a Computer Science student at Gdańsk University of Technology.
+🚀 About Me
 
-Here are some ideas to get you started:
+    💻 Passionate about Web Development & Cybersecurity
+    🔨 Currently working on popi.pl and building websites for private businesses
+    🛠️ Tech Stack: Python, JavaScript, React, C++
+    🎓 English FCE Certificate
+    🤝 Open to collaboration on exciting projects
+    🏀 Huge basketball fan, love watching the NBA (Go Denver Nuggets!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+    ✉️ Email: kacper.a.wrobel@gmail.com
+    🔗 LinkedIn
